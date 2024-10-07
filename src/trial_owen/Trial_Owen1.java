@@ -8,7 +8,7 @@ public class Trial_Owen1 {
 
         //update from Tanya
 
-        // Owen Tanya and I did a good practice with GitHub.
+        // Owen, Tanya and I did a good practice with GitHub.
         // It was little complicated, but we will get there.
     }
 }
