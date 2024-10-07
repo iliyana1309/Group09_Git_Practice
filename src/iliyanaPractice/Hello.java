@@ -6,4 +6,6 @@ public class Hello {
 
         System.out.println("Hello Iliyana"); //from Tanya
     }
+    // updated the class with some extra lines. Let's do conflict
+
 }
