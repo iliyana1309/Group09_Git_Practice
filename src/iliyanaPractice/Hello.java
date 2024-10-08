@@ -11,3 +11,4 @@ public class Hello {
     // updated the class with some extra lines. Let's do conflict
 
 }
+// hahaha!hohoho again!
